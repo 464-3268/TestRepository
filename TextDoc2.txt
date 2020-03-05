@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 TextDoc 2 Version 1 xxxxx
+=======
+TextDoc 2 Version 1 xxxxxyy
+>>>>>>> b31ee814f5b0a7519e3bb11005f43012425e8563
